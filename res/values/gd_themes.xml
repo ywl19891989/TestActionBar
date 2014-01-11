@@ -19,7 +19,7 @@
 		<item name="gdActionBarStyle">@style/GreenDroid.Widget.ActionBar</item>
 		<item name="gdActionBarTitleStyle">@style/GreenDroid.Widget.ActionBar.Title</item>
 		<item name="gdActionBarItemStyle">@style/GreenDroid.Widget.ActionBar.Item</item>
-
+		<item name="android:windowNoTitle">true</item>
 	</style>
 	
 	
